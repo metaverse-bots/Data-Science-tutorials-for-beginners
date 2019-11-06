@@ -1,1 +1,1 @@
-c43b31a0-00a5-11ea-92ca-74e5f9f06e28
+from system.config.constants import (APP_CONNECT_ENV_PROD, DOC_DOWNLOADS_ROOT
